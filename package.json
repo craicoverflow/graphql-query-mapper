@@ -49,14 +49,14 @@
     "ava": "3.3.0",
     "express": "4.17.1",
     "express-graphql": "0.9.0",
-    "graphql": "14.6.0",
-    "sqlite": "3.0.3",
+    "graphql": "15.0.0",
+    "sqlite": "4.0.7",
     "ts-node": "8.6.2",
-    "tslint": "5.20.1",
+    "tslint": "6.1.1",
     "typescript": "3.7.5"
   },
   "peerDependencies": {
-    "graphql": "14.6.0"
+    "graphql": "15.0.0"
   },
   "license": "Apache-2.0",
   "bugs": {
